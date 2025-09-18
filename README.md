@@ -1,0 +1,2 @@
+# FAMICOMU-origin
+ファミコンエミュレータです
